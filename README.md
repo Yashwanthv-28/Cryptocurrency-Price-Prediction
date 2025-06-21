@@ -1,11 +1,11 @@
 
 
 ````markdown
- 💖 Welcome to Your Lovable Project
+ 💖 Welcome to our Project
 
-📌 Project Info
+ 📌 Project Info
 
-- **Project Dashboard**: [Lovable Project Link](https://lovable.dev/projects/b051f81e-b64f-4e31-9846-1dc727cc369c)
+- **Project Dashboard**: [Project Link](https://example.com/projects/your-project-id)
 
 ---
 
@@ -61,22 +61,23 @@ This project uses the following technologies:
 * 🧩 **shadcn-ui** — Accessible UI components built with Radix UI and Tailwind
 
 ---
-# 🚀 Deployment
+
+ 🚀 Deployment
 
 You can deploy this app using one of the following options:
 
- 🔗 Lovable Platform
+ 🔗 Preferred Platform
 
-* Follow the official Lovable deployment guide: [Lovable Docs](https://docs.lovable.dev/)
+* Follow the instructions provided by your hosting service
 
- 🌐 Other Hosting Services
+ 🌐 Hosting Services
 
 * [Vercel](https://vercel.com/)
 * [Netlify](https://netlify.com/)
 * [GitHub Pages](https://pages.github.com/)
 * Any other static hosting provider that supports Node/Vite/React projects
 
-Make sure to build your project using:
+Build your project before deployment:
 
 ```bash
 npm run build
@@ -86,8 +87,8 @@ Then upload the `dist/` folder to your hosting provider.
 
 ---
 
- 📚 Documentation & Support
+## 📚 Documentation & Support
 
-* 📖 **Lovable Docs**: [https://docs.lovable.dev/](https://docs.lovable.dev/)
-* 🧩 **Troubleshooting Tips**: [https://docs.lovable.dev/tips-tricks/troubleshooting](https://docs.lovable.dev/tips-tricks/troubleshooting)
-* 🧑‍💻 **Community & Help**: Use GitHub Issues or check Lovable community forums
+* 📖 **Documentation**: [https://example.com/docs](https://example.com/docs)
+* 🧩 **Troubleshooting**: [https://example.com/docs/troubleshooting](https://example.com/docs/troubleshooting)
+* 🧑‍💻 **Community & Help**: Use GitHub Issues or relevant community support forums
