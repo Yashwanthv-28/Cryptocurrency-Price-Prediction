@@ -3,7 +3,7 @@
 ````markdown
  💖 Welcome to Your Lovable Project
 
-##📌 Project Info
+📌 Project Info
 
 - **Project Dashboard**: [Lovable Project Link](https://lovable.dev/projects/b051f81e-b64f-4e31-9846-1dc727cc369c)
 
@@ -23,16 +23,16 @@ Make sure the following are installed on your system:
  ⚡ Quickstart
 
 ```bash
-# 1. Clone the repository
+ 1. Clone the repository
 git clone <YOUR_GIT_URL>
 
-# 2. Navigate into the project directory
+ 2. Navigate into the project directory
 cd <YOUR_PROJECT_NAME>
 
-# 3. Install dependencies
+ 3. Install dependencies
 npm install
 
-# 4. Start the development server
+ 4. Start the development server
 npm run dev
 ````
 
@@ -40,7 +40,7 @@ Your application will be running at [http://localhost:8080](http://localhost:808
 
 ---
 
-## 📦 Requirements
+ 📦 Requirements
 
 * Operating System: Windows / macOS / Linux
 * Node.js v18+
@@ -50,7 +50,7 @@ Your application will be running at [http://localhost:8080](http://localhost:808
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 This project uses the following technologies:
 
@@ -61,16 +61,15 @@ This project uses the following technologies:
 * 🧩 **shadcn-ui** — Accessible UI components built with Radix UI and Tailwind
 
 ---
-
-## 🚀 Deployment
+# 🚀 Deployment
 
 You can deploy this app using one of the following options:
 
-### 🔗 Lovable Platform
+ 🔗 Lovable Platform
 
 * Follow the official Lovable deployment guide: [Lovable Docs](https://docs.lovable.dev/)
 
-### 🌐 Other Hosting Services
+ 🌐 Other Hosting Services
 
 * [Vercel](https://vercel.com/)
 * [Netlify](https://netlify.com/)
@@ -87,7 +86,7 @@ Then upload the `dist/` folder to your hosting provider.
 
 ---
 
-## 📚 Documentation & Support
+ 📚 Documentation & Support
 
 * 📖 **Lovable Docs**: [https://docs.lovable.dev/](https://docs.lovable.dev/)
 * 🧩 **Troubleshooting Tips**: [https://docs.lovable.dev/tips-tricks/troubleshooting](https://docs.lovable.dev/tips-tricks/troubleshooting)
