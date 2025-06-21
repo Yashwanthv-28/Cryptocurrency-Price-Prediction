@@ -1,17 +1,17 @@
 
 
 ````markdown
-# 💖 Welcome to Your Lovable Project
+ 💖 Welcome to Your Lovable Project
 
-## 📌 Project Info
+##📌 Project Info
 
 - **Project Dashboard**: [Lovable Project Link](https://lovable.dev/projects/b051f81e-b64f-4e31-9846-1dc727cc369c)
 
 ---
 
-## 🚀 Getting Started
+ 🚀 Getting Started
 
-### ✅ Prerequisites
+ ✅ Prerequisites
 
 Make sure the following are installed on your system:
 
@@ -20,7 +20,7 @@ Make sure the following are installed on your system:
 
 ---
 
-### ⚡ Quickstart
+ ⚡ Quickstart
 
 ```bash
 # 1. Clone the repository
