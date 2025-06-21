@@ -13,7 +13,7 @@
 
  ✅ Prerequisites
 
-Make sure the following are installed on your system:
+  Make sure the following are installed on your system:
 
 - [Node.js](https://nodejs.org/) (v18 or newer recommended)
 - npm (included with Node.js)
@@ -24,19 +24,19 @@ Make sure the following are installed on your system:
 
 ```bash
  1. Clone the repository
-git clone <YOUR_GIT_URL>
+ git clone <YOUR_GIT_URL>
 
  2. Navigate into the project directory
-cd <YOUR_PROJECT_NAME>
+ cd <YOUR_PROJECT_NAME>
 
  3. Install dependencies
-npm install
+ npm install
 
  4. Start the development server
-npm run dev
+ npm run dev
 ````
 
-Your application will be running at [http://localhost:8080](http://localhost:8080)
+ Your application will be running at [http://localhost:8080](http://localhost:8080)
 
 ---
 
