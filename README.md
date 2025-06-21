@@ -1,33 +1,52 @@
-# 💖 Welcome to Your Lovable Project
 
-## 📌 Project Info
+# Welcome to your Lovable project
 
-- **Project Dashboard**: [Lovable Project Link](https://lovable.dev/projects/b051f81e-b64f-4e31-9846-1dc727cc369c)
+## Project info
 
----
+**URL**: https://lovable.dev/projects/b051f81e-b64f-4e31-9846-1dc727cc369c
 
-## 🚀 Getting Started
+## How can I run this project locally?
 
-### ✅ Prerequisites
-
-Ensure you have the following installed:
-
+**Prerequisites:**
 - [Node.js](https://nodejs.org/) (v18 or newer recommended)
-- npm (comes bundled with Node.js)
+- npm (comes with Node.js)
 
----
+**Quickstart:**
 
-### ⚡ Quickstart
-
-```bash
-# 1. Clone the repository
+```sh
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# 2. Navigate into the project directory
+# Step 2: Enter the project directory
 cd <YOUR_PROJECT_NAME>
 
-# 3. Install project dependencies
+# Step 3: Install dependencies
 npm install
 
-# 4. Start the development server
+# Step 4: Start the development server
 npm run dev
+```
+
+Your app will be available at http://localhost:8080 by default.
+
+## Requirements
+
+See [requirements.txt](./requirements.txt) for system prerequisites.
+
+## Project Technologies
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## Deployment
+
+To deploy, follow Lovable’s deploy instructions or push to your preferred platform.
+
+## Documentation
+
+For more info: [Lovable Documentation](https://docs.lovable.dev/)  
+For troubleshooting: [Troubleshooting docs](https://docs.lovable.dev/tips-tricks/troubleshooting)
+
