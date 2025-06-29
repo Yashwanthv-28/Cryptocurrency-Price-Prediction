@@ -59,7 +59,7 @@ Before running this project locally, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/crypto-crystal-gaze.git
+   git clone https://github.com/Yashwanthv-28/Cryptocurrency-Price-Prediction.git
    ```
 2. **Navigate into the project directory**
    ```bash
